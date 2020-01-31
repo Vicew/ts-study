@@ -24,14 +24,14 @@
 // const personA = new PersonA("dell");
 // console.log(personA.name);
 
-class PersonA {
-  constructor(public name: string) {}
-}
+// class PersonA {
+//   constructor(public name: string) {}
+// }
 
-class TeacherA extends PersonA {
-  constructor(public age: number) {
-    super("dell");
-  }
-}
+// class TeacherA extends PersonA {
+//   constructor(public age: number) {
+//     super("dell");
+//   }
+// }
 
-const teacherA = new TeacherA(28);
+// const teacherA = new TeacherA(28);

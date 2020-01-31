@@ -1,7 +1,7 @@
 // 数组
-const arr: (number | string)[] = [1, "2", 3];
-const stringArr: string[] = ["a", "b"];
-const undefinedArr: undefined[] = [undefined];
+// const arr: (number | string)[] = [1, "2", 3];
+// const stringArr: string[] = ["a", "b"];
+// const undefinedArr: undefined[] = [undefined];
 
 // 类型别名 type alias
 
@@ -26,10 +26,10 @@ const undefinedArr: undefined[] = [undefined];
 // ];
 
 // 元组 tuple
-const teacherInfo: [string, string, number] = ["Dell", "male", 18];
-// 比如处理csv文件
-const teacherList: [string, string, number][] = [
-  ["dell", "male", 19],
-  ["sun", "female", 26],
-  ["jeny", "female", 38]
-];
+// const teacherInfo: [string, string, number] = ["Dell", "male", 18];
+// // 比如处理csv文件
+// const teacherList: [string, string, number][] = [
+//   ["dell", "male", 19],
+//   ["sun", "female", 26],
+//   ["jeny", "female", 38]
+// ];

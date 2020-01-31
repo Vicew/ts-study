@@ -19,7 +19,7 @@
 
 // 解构
 
-function add({ first, second }: { first: number; second: number }): number {
-  return first + second;
-}
-const total = add({ first: 1, second: 2 });
+// function add({ first, second }: { first: number; second: number }): number {
+//   return first + second;
+// }
+// const total = add({ first: 1, second: 2 });
